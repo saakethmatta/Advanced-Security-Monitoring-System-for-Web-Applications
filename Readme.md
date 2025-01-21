@@ -1,6 +1,10 @@
 # File Monitoring System with Web Application
 
-This system includes a file monitoring component and a web application. The file monitor tracks directory changes while the web application provides a user interface for interaction.
+This system includes a file-monitoring component and a web application. The file monitor tracks directory changes while the web application provides a user interface for interaction.
+
+## Author
+- Saaketh Matta
+- Prahlad Harsha
 
 ## Features
 
